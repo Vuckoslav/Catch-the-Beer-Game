@@ -2,4 +2,4 @@
 
 
 
-Try on  // Probaj :  https://vuckoslav.github.io/Catch-the-Beer-Game/
+Try on  // Probaj na :  https://vuckoslav.github.io/Catch-the-Beer-Game/
